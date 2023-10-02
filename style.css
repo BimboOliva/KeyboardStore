@@ -14,14 +14,12 @@ html, body{
 }
 .header{
 	width: 100%;
-	height: 100px;
-	background-color: #fff;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
 	box-shadow: 10px 0 20px rgba(0, 0, 0, .15);
 	z-index: 1;
-	background-color: #21758f;
+	background-color: rgba(0, 0, 0, 0.3);
 	flex-wrap: wrap;
 }
 .logo{
